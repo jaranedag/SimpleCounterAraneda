@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Container{
+    display: inline-block;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+.Container div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 70px;
+    color: white;
+    padding: 10px;
+    background-color: black;
+}
+.seconds{
+    background-color: rgb(56, 56, 56);
+}
+far fa-clock text-white {
+    font-size: 60px;
+
+}
